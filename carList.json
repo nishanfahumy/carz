@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Audi",
+    "image": "audi.jpg"
+  },
+  {
+    "id": 2,
+    "name": "BMW",
+    "image": "bmw.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ferrari",
+    "image": "ferrari.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Jagua",
+    "image": "jagua.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Lamborghini",
+    "image": "lamborghini.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mercedes",
+    "image": "mercedes.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nissan",
+    "image": "nissan.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Toyota",
+    "image": "toyota.jpg"
+  }
+]
